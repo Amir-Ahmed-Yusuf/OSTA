@@ -1,1 +1,1 @@
-It's clone of official page of Oromiya Science and Technology Authority
+This repository contains a clone of the official website of the Oromia Science and Technology Authority. The Oromia Science and Technology Authority is responsible for promoting scientific and technological innovation and research in the Oromia region of Ethiopia.
