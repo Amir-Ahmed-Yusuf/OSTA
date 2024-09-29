@@ -1,0 +1,1 @@
+It's clone of official page of Oromiya Science and Technology Authority
