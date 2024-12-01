@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Oromia Science and Technology Website
 
 This project is a website designed for the Oromia Science and Technology Authority (OSTA). It provides information about the organization, its services, key updates, and contact details. The website also features sections for news, events, and media content, including YouTube videos and image sliders.
@@ -27,6 +26,4 @@ HTML5 and CSS3 for structure and styling.
 Font Awesome and Remixicon for icons.
 Google Maps and YouTube embedded frames.
 JavaScript for dynamic content interaction (image sliders and navigation)
-=======
 This repository contains a clone of the official website of the Oromia Science and Technology Authority. The Oromia Science and Technology Authority is responsible for promoting scientific and technological innovation and research in the Oromia region of Ethiopia.
->>>>>>> 501092162bf514e88650d49b156735f71dab5165

@@ -9,16 +9,15 @@
 /* 1st Navigation tab */
 .nav_1 {
   font-family: "Raleway", sans-serif;  
-  max-width: 1350px;
-  margin-inline: auto;
-  padding: 0 1rem;
+  width: 100%;
+  padding: 0;
   display: flex;
   flex-direction: row;
   align-items: center;
   justify-content: space-between;
-  gap: 0 1rem;
+  gap: 1rem;
   background: linear-gradient(to bottom, #ff3300, #fff 50%, #000000, #fff);
-  margin-bottom: 5px;
+  margin-bottom: 0 0 0 5px;
 }
 
 .nav__logo {
@@ -675,60 +674,6 @@ footer a:hover {
   margin: 0 auto;
   padding: 20px;
   background-color: #f9f9f9;
-}
-
-/* Section styling */
-.hundeffamma-section {
-  padding: 20px;
-  background-color: #ffffff;
-  border-radius: 8px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}
-
-/* Heading styling */
-.hundeffamma-section h1 {
-  font-size: 2rem;
-  color: #005811;
-  text-align: center;
-  margin-bottom: 15px;
-}
-
-/* Paragraph styling */
-.hundeffamma-section p {
-  font-size: 1rem;
-  line-height: 1.6;
-  color: #333333;
-  margin-bottom: 15px;
-}
-
-/* List styling */
-.hundeffamma-section ul {
-  list-style-type: disc;
-  padding-left: 20px;
-  color: #005811;
-}
-
-.hundeffamma-section ul li {
-  margin-bottom: 10px;
-  line-height: 1.6;
-  font-size: 1rem;
-  color: #444444;
-}
-
-/* Mobile responsiveness */
-@media (max-width: 768px) {
-  .hundeffamma-main {
-      padding: 15px;
-  }
-
-  .hundeffamma-section h1 {
-      font-size: 1.5rem;
-  }
-
-  .hundeffamma-section p,
-  .hundeffamma-section ul li {
-      font-size: 0.9rem;
-  }
 }
 
 .ergama-main {
